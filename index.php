@@ -1,15 +1,8 @@
-<?php
-<!DOCTYPE html>
 <html>
-<body>
-
-<h1>My first PHP page</h1>
-
-<?php
-echo "Hello World!";
-?>
-
-</body>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; ?> 
+ </body>
 </html>
-?>
-
